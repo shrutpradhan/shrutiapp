@@ -1,0 +1,35 @@
+.header{
+    height: 50px;
+    width: 100%;
+    /* background-color: lightblue; */
+    display: flex;
+    
+}
+.img-container{
+ width: 70px;
+ display: flex;
+ margin-left: 10px;
+}
+.img-container img{
+    height: 100%;
+    width: 79%;
+}
+.navbar{
+    height:70%;
+    /* background-color: brown; */
+width: 200px;
+padding-left:800px;
+padding-top: 6px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.nav{
+    width: 70px;
+    display: flex;
+    justify-content: right;
+    font-size: small;
+    align-items: center;
+    padding: 20px;
+    font-weight: bold;
+}
